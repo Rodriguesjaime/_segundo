@@ -1,0 +1,284 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100%;
+    background-color: rgba(245, 245, 245, 0.582);
+}
+body#bod{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100%;
+    background-color:rgba(0, 0, 255, 0.082);
+}
+
+fieldset{
+    margin-top: -160px;
+    width: 320px;
+    height: 475px;
+    background-color: rgba(0, 255, 255, 0.144);
+    text-align: 25px;
+}
+#fomu1{
+    margin-top: -100px;
+    margin-left: 3px;
+
+}
+#ppp{
+    margin-top: 250px;
+    margin-left: 480px;
+}
+#cabecalho{
+    text-align: center;
+    margin-top: 25px;
+}
+#cabecalho2{
+    margin-left: 5px;
+    
+}
+
+#cabecalha2{
+    margin-left: 18px;
+    
+}
+
+p{
+    margin-left: 25px;
+    margin-top: 80px;
+}
+button{
+    background-color: plum;
+    color: white;
+}
+#roda{
+    margin-top:center;
+    margin-top: 20px;
+}
+#roda2{
+    margin-top: 20px;
+}
+#dat{
+    text-align: center;
+     margin-top: 120px;
+}
+#adm{
+    margin-top: -250px;
+    padding-left: 470pt;
+}
+#admi{
+    margin-top: -5px;
+    margin-left: 380pt;
+}
+#adm4{
+    margin-top: -80px;
+    margin-left: 580px;
+    position: fixed;
+    
+}
+#adm1{
+    margin: -35px;
+    margin-left: 550px;
+}
+
+#adm11{
+    margin: -35px;
+    margin-left: 250px;
+}
+
+#adm2{
+    margin-top: -10px;
+}
+#adm3{
+    left: 50px;
+}
+nav{
+    width: 300px;
+    float: left;
+    height: 580px;
+    background-color: rgba(0, 0, 255, 0.459);
+   
+}
+section{
+    margin: auto;
+    width: 850px;
+    height: 580px;
+    background-color:rgba(0, 0, 255, 0.459);
+    margin-left: 10px;
+    float: left;
+}
+section#sele{
+    
+    width: 830px;
+    height: 500px;
+    background-color:rgba(0, 0, 255, 0.459);
+    margin-left: 50px;
+    float: left;
+}   
+
+div{
+    margin: auto;
+    width: 1200px;
+    margin-top: 20px;
+    padding: 10px;
+}
+#artigo{
+    top: 50px;
+    color:white;
+  margin: 20px;
+    margin-left: 30px;
+        
+}
+
+#menu{
+    list-style-type: none;
+     margin-top: 15px;
+     padding-top: 50px;
+ 
+ }
+ #lin{
+     width: 200px;
+     height: 50px;
+     box-sizing: border-box;
+     background-color: white;
+     color: blue;
+     margin-top: 50px;
+     line-height: 30px;
+     
+     margin-left: 80px;
+     padding: 5px;
+     
+ }
+ #menu2{
+    margin-top: 2px;
+    left: 30px;
+    margin: -5px;
+    position: fixed;
+}
+#menualter{
+    margin-top: -77px;
+    left: 30px;
+    position: fixed;
+}
+#linalter{
+    width: 200px;
+    height: 50px;
+    box-sizing: border-box;
+    background-color: white;
+    color: blue;
+    line-height: 10px;
+    margin-left: 30px;
+    padding: 2px;
+    
+}
+#menualter2{
+    margin-top: 40px;
+    position: fixed;
+    
+    left: 578px;
+}
+#saida{
+    background-color: yellowgreen;
+    margin-left: 680px;
+    margin-top: 400px;
+    
+    text-align: center;
+    box-sizing: border-box;
+    
+}
+#saidaifr{
+    background-color: yellowgreen;
+    margin-left: -30px;
+    margin-top: 650px;
+    
+    text-align: center;
+    box-sizing: border-box;
+    
+}
+#saidas{
+    background-color: yellowgreen;
+    margin-left: 800px;
+    margin-top: -10px;
+    text-align: center;
+    box-sizing: border-box;
+    
+}
+
+#pesq{
+    position: fixed;
+    margin-top: -80px;
+    left: 300px;
+    
+}
+#pesq1{
+    position: fixed;
+    margin-top: -50px;
+    left: 600px;
+    
+}
+#pesqestu{
+    position: fixed;
+    margin-top: 80px;
+    left: 600px;
+    
+}
+#menu3{
+    position: fixed;
+    margin: -25px;
+    left: 650px;
+}
+#msm{
+    color:blue;
+    margin-top: -250px;
+    margin-left: 80px;
+}
+
+#reg{
+    margin-top: 1px;
+    margin-left: auto;
+    background-color: chartreuse;
+    text-align: center;
+    box-shadow: 2px 2px 2px rgba(255, 255, 255, 0.514); 
+}
+#parag{
+    margin-left: 20px;
+    margin-top: 60px;
+    
+}
+#botao{
+    margin-left: 50px;
+    
+    padding: 10px;
+    line-height: 15px;
+    box-sizing: border-box;
+    margin: 2px;
+    
+}
+a {
+    text-decoration: none;
+    color:black;
+}
+#ver{
+    margin-left: -75px;
+    margin-top: -10px;
+}
+#mensag{
+    margin-left: 5px;
+}
+iframe#ifram{
+    width: 850px;
+    height: 547px;
+    margin: -20px;
+    margin-left: 0.5px;
+    border: none;
+}
+iframe#ifram1{
+    width: 850px;
+    height: 547px;
+    margin: -90px;
+    margin-left: 0.5px;
+    border: none;
+}
+h1#escola{
+    color: yellow;
+}
